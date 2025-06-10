@@ -12,7 +12,7 @@ I am a Ph.D. student in the [Guangdong provincial Key Laboratory of Space-Aerial
 My research focuses on the intersection of machine learning and robotics, with a particular focus on sensor fusion data, deep representation learning, generative models and sensori-motor control in the context of autonomous systems.
 <!-- Currently, I am exploring open-world 3D scene understanding algorithms that leverage the power of 2D foundation models. -->
 
-I earned my Master's degree in Software Engineering from [Nankai University](https://csen.nankai.edu.cn/), advised by Prof. [Mengting Hu](https://hmt2014.github.io/homepage/). Before that, I received my Master's and Bachelor's degree from UPSI Malaysia, where I was lucky to work with Prof. [Aws Alaa Zaidan](https://ieeexplore.ieee.org/author/37547420400/) 
+I earned my Master's degree in Software Engineering from [Nankai University](https://csen.nankai.edu.cn/), advised by Prof. [Mengting Hu](https://hmt2014.github.io/homepage/). Before that, I received my Master's and Bachelor's degree from UPSI Malaysia, where I was lucky to work with Prof. [Aws Alaa Zaidan](https://ieeexplore.ieee.org/author/37547420400/). 
 
 
 
@@ -32,11 +32,6 @@ I earned my Master's degree in Software Engineering from [Nankai University](htt
 </tbody>
 </table>
 
-# Teaching
-
-* Teaching Assistant for CSC384 - Intro to Artificial Intelligence, Fall 2022 at UofT
-* Teaching Assistant for CSC384 - Intro to Artificial Intelligence, Winter 2022 at UofT
-* Teaching Assistant for CSC110 - Foundations of Computer Science I, Fall 2021 at UofT
 
 # Selected Awards
 
