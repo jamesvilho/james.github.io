@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiao Gu"
+title: "Vilho James"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, advised by Prof. [Florian Shkurti](http://www.cs.toronto.edu/~florian/). 
-My research focuses on 3D computer vision and robotics, particularly on developing robot perception and action algorithms that generalize to and adapt in novel environments. 
+I am a Ph.D. student in the [Guangdong provincial Key Laboratory of Sapce-Aerial Networking & Intelligent Sensing](https://rvl.cs.toronto.edu/) at the University of Toronto, advised by Prof. [Zhang Tingting](https://faculty.hitsz.edu.cn/zhangtingting/). 
+My research focuses on the intersection of machine learning and robotics, with a particular focus on sensor fusion data, deep representation learning, generative models and sensori-motor control in the context of autonomous systems.
 <!-- Currently, I am exploring open-world 3D scene understanding algorithms that leverage the power of 2D foundation models. -->
 
-During my Ph.D., I completed a research internship at [Meta Reality Labs](https://about.meta.com/realitylabs/) focusing on egocentric 3D perception, working closely with [Zhaoyang Lv](https://lvzhaoyang.github.io/) and [Chris Sweeney](https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en). 
-
-
-I earned my Master's degree in Robotics from Carnegie Mellon University, advised by Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/). Before that, I received my Bachelor's degree from the Hong Kong University of Science and Technology, where I was lucky to work with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing). I also had an internship at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open). 
+I earned my Master's degree in Software Engineering from [Nankai University](https://csen.nankai.edu.cn/), advised by Prof. [Mengting Hu](https://hmt2014.github.io/homepage/). Before that, I received my Master's and Bachelor's degree from UPSI Malaysia, where I was lucky to work with Prof. [Aws Alaa Zaidan](https://ieeexplore.ieee.org/author/37547420400/) 
 
 
 
@@ -41,25 +38,9 @@ I earned my Master's degree in Robotics from Carnegie Mellon University, advised
 * Teaching Assistant for CSC384 - Intro to Artificial Intelligence, Winter 2022 at UofT
 * Teaching Assistant for CSC110 - Foundations of Computer Science I, Fall 2021 at UofT
 
-# Service
-
-* Reviwer for T-RO, TPAMI, IJRR, TMLR, RA-L, NeurIPS, CVPR, ICLR, ICCV, ICRA, IROS, ECCV, ICML, WACV
-
 # Selected Awards
 
-* Qualcomm Innovation Fellowship Finalist (2025)
-* Mary H. Beatty Fellowship (2025-2026)
-<!-- * Kwok Sau Po Scholarship (2025) -->
-<!-- * The Fahiem Bacchus Memorial Graduate Student Scholarship (2025) -->
-* Mary H. Beatty Fellowship (2024-2025)
-* NeurIPS Top Reviewer (2024)
-<!-- * Ray Reiter Graduate Award (2024) -->
-* Ontario Graduate Scholarship (2022-2023)
-<!-- * Acres Productive Technologies Inc./Joseph Yonan Memorial Fellowship (2023) -->
-* HKUST Academic Achievement Medal (2019)
-* HKSAR Government Scholarships (2017-2019)
-<!-- * High Fashion Charitable Foundation Exchange Scholarships (2018) -->
-* Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award (2018)
-<!-- * HKSAR Government Scholarship Fund - Reaching Out Award (2017) -->
-<!-- * HKSAR Government Scholarship Fund - Talent Development Scholarship (2017) -->
-* Dean's List (2015-2019)
+* Chinese Government Scholarship (2023) -->
+* Chinese Government Scholarship MOFCOM (2021-2023)
+* Namibian/Malaysia Government Scholarship (2013-2019)
+
