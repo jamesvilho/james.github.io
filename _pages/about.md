@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Guangdong provincial Key Laboratory of Sapce-Aerial Networking & Intelligent Sensing](http://eie.hitsz.edu.cn/English.html) at the University of Toronto, advised by Prof. [Zhang Tingting](https://faculty.hitsz.edu.cn/zhangtingting/). 
+I am a Ph.D. student in the [Guangdong provincial Key Laboratory of Sapce-Aerial Networking & Intelligent Sensing](http://eie.hitsz.edu.cn/English.html) at the Harbin Institute of Technology, Shenzhen, advised by Prof. [Zhang Tingting](https://faculty.hitsz.edu.cn/zhangtingting/). 
 My research focuses on the intersection of machine learning and robotics, with a particular focus on sensor fusion data, deep representation learning, generative models and sensori-motor control in the context of autonomous systems.
 <!-- Currently, I am exploring open-world 3D scene understanding algorithms that leverage the power of 2D foundation models. -->
 
