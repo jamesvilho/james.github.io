@@ -82,12 +82,12 @@ analytics:
 # Site Author
 author:
   name             : "Vilho James"
-  avatar           : "photo_3.jpg"
+  avatar           : "jamesf.jpg"
   bio              : "Ph.D. Student in Information & Communication Engineering at Harbin Institute of Technology"
   location         : "Shenzhen, PRC"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=MF7ISVAAAAAJ&hl=en"
+  googlescholar    : 
   email            : "james943@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jamesvilho"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
