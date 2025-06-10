@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:     
-  username               : &twitter iipinge_vilho
+  username               : "iipinge_vilho"
 facebook:
   username               :
   app_id                 :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "iipinge_vilho"
   vine             :
   weibo            :
   xing             :
