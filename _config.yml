@@ -11,7 +11,7 @@ title                    : "Vilho James's Homepage"
 title_separator          : "-"
 name                     : &name "Vilho James"
 description              : &description "Vilho James, Ph.D. in Information & Communication Engineering at Harbin Institute of Technology"
-url                      : https://georgegu1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jamesvilho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : "http://localhost:4000/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jamesvilho/jamesvilho.github.io"
@@ -57,8 +57,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter qiaogu1997
+twitter:     
+  username               : &twitter iipinge_vilho
 facebook:
   username               :
   app_id                 :
@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MF7ISVAAAAAJ&hl=en"
-  email            : "q.gu@mail.utoronto.ca"
+  email            : "james943@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
